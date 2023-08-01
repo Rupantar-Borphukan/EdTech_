@@ -34,7 +34,7 @@ const Company = () => {
           <Col lg="2" md="3" sm="4" xs="6">
             <h3 className=" d-flex align-items-center gap-1">
               {" "}
-              <i class="ri-finder-fill"></i> Finder
+              <i class="ri-finder-fill"></i> Twitter
             </h3>
           </Col>
 
